@@ -12,7 +12,7 @@
     "debug": "~2.6.9",
     "dotenv": "^8.0.0",
     "ethers": "^4.0.33",
-    "express": "~4.16.1",
+    "express": "~4.17.3",
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1"
   }
